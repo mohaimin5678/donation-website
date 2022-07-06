@@ -154,6 +154,56 @@ body {
     background-color: rgba(236, 185, 118, 0.205);
 }
 
+.child-education {
+    background-image: url(images/g1.jpg);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+    padding-top: 200px;
+    padding-bottom: 100px;
+    margin-bottom: 130px;
+}
+
+.child-section {
+    display: flex;
+    margin-left: 8%;
+    margin-right: 10%;
+    padding-bottom: 100px;
+}
+
+.child-fund {
+    width: 40%;
+    padding-top: 25px;
+    padding-left: 30px;
+    padding-bottom: 30px;
+    color: rgb(29, 24, 24);
+    background-color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: 900;
+    border-radius: 5px;
+}
+
+.child-fund p {
+    color: rgba(22, 21, 21, 0.653);
+    font-size: 15px;
+    padding-bottom: 20px;
+}
+
+#child-button-set {
+    text-align: right;
+    padding-right: 20px;
+    padding-top: 20px;
+}
+
+#child-donate {
+    font-size: 25px;
+    padding: 20px;
+    border-radius: 15px;
+    border: none;
+    color: aliceblue;
+    background-color: rgb(235, 70, 55);
+}
+
 /*
 .
 .
