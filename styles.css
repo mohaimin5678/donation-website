@@ -153,3 +153,35 @@ body {
 #education-section {
     background-color: rgba(236, 185, 118, 0.205);
 }
+
+/*
+.
+.
+.
+*/
+
+footer {
+    position: absolute;
+    bottom: auto;
+    left: 0%;
+    right: 0;
+    background-color: black;
+    margin: 0%;
+    padding: 0;
+    height: fit-content;
+}
+
+footer p {
+    text-align: center;
+    color: gray;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+footer span {
+    font-family: 'Dancing Script', cursive;
+    font-weight: bolder;
+    text-align: center;
+    color: rgb(188, 31, 31);
+    font-size: 40px;
+}
