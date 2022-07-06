@@ -98,3 +98,58 @@ body {
     color: aliceblue;
     background-color: rgb(235, 70, 55);
 }
+
+.donation-plan {
+    margin-bottom: 130px;
+}
+
+.donation-plan h1 {
+    font-size: 60px;
+    font-weight: 900;
+    text-align: center;
+    color: rgb(2, 3, 3);
+}
+
+.donation-plan p {
+    font-size: 20px;
+    text-align: center;
+    color: rgb(128, 128, 128);
+    padding-bottom: 50px;
+}
+
+.three-section {
+    display: flex;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-bottom: 70px;
+}
+
+.each-section {
+    width: 40%;
+    margin-right: 20px;
+    padding-top: 25px;
+    padding-left: 10px;
+    background-color: rgba(59, 56, 56, 0.062);
+    color: rgb(24, 22, 22);
+    font-size: 20px;
+    font-weight: 900;
+    border-radius: 5px;
+}
+
+.each-section p {
+    font-size: 15px;
+    text-align: left;
+    color: gray;
+}
+
+#food-section {
+    background-color: rgba(87, 194, 194, 0.189);
+}
+
+#shelter-section {
+    background-color: rgba(255, 182, 193, 0.189);
+}
+
+#education-section {
+    background-color: rgba(236, 185, 118, 0.205);
+}
