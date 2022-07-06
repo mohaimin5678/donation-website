@@ -34,9 +34,9 @@ body {
     padding: 20px;
     border-radius: 15px;
     margin: 0;
-    /*gap between buttons*/
     color: aliceblue;
     background-color: rgb(235, 70, 55);
+    border: none;
 }
 
 .donate-today-banner {
@@ -66,7 +66,6 @@ body {
 
 .amount-box {
     width: 40%;
-    /*margin-left: 20px;*/
     margin-right: 20px;
     padding: 50px;
     background-color: rgba(59, 56, 56, 0.062);
@@ -154,6 +153,10 @@ body {
     background-color: rgba(236, 185, 118, 0.205);
 }
 
+/*
+. bonus part start
+*/
+
 .child-education {
     background-image: url(images/g1.jpg);
     background-repeat: no-repeat;
@@ -204,10 +207,54 @@ body {
     background-color: rgb(235, 70, 55);
 }
 
+.update-section {
+    margin-bottom: 130px;
+}
+
+.update-section h1 {
+    font-size: 50px;
+    font-weight: 900;
+    text-align: center;
+    color: rgb(2, 3, 3);
+}
+
+.update-section p {
+    font-size: 15px;
+    text-align: center;
+    color: gray;
+    padding-bottom: 20px;
+}
+
+form {
+    background-color: rgb(255, 205, 131);
+    margin-left: 300px;
+    margin-right: 300px;
+    padding: 80px;
+    padding-left: 13%;
+}
+
+#email-id {
+    padding: 22px;
+    width: 55%;
+    border: none;
+    border-radius: 5px;
+}
+
+#button-id {
+    padding-top: 16px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 21px;
+    margin-left: -5px;
+    border: none;
+    font-size: 20px;
+    background-color: rgba(255, 107, 53, 0.834);
+    color: whitesmoke;
+    border-radius: 5px;
+}
+
 /*
-.
-.
-.
+. bonus part end
 */
 
 footer {
